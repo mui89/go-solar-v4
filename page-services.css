@@ -1,1 +1,1 @@
-@import "style.css";@import "layout-img-txt.css";@import "img-feature.css";@import "section-projects.css";@import "section-latest-blogs.css";
+@import "style.css";@import "layout-img-txt.css";@import "img-feature.css";@media screen and (min-width:992px){.services-listing .img-txt-layout .c-column>.inner{padding-left:5px!important;padding-right:5px!important}}
